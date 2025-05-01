@@ -2,7 +2,7 @@
   "name": "lol-indention",
   "displayName": "Lol indention",
   "version": "0.0.1",
-  "description": "サイト中に含まれるパチンコという文字列を必ずパで改行するChrome拡張機能",
+  "description": "サイト中に含まれるパチンコという文字列を必ずパで改行し、生活に笑いを与えるChrome拡張機能",
   "author": "hitotori",
   "scripts": {
     "dev": "plasmo dev",
