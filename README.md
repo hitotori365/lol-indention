@@ -8,7 +8,7 @@
 
 ## プライバシーポリシー (Privacy Policy)
 
-**最終更新日:** 2024年MM月DD日 (ご自身で更新してください)
+**最終更新日:** 2025年5月1日
 
 本拡張機能「Lol indention」（以下、本拡張機能）は、ユーザーのプライバシーを尊重します。
 
@@ -31,7 +31,7 @@
 
 ### 問い合わせ先
 
-本プライバシーポリシーに関するお問い合わせは、[あなたの連絡先、例えばGitHubリポジトリのIssuesなど]までお願いします。(任意です。不要であればこの行は削除してください)
+本プライバシーポリシーに関するお問い合わせは、[ひととり](https://x.com/hitotori_365)までお願いします。
 
 ### ポリシーの変更
 
@@ -43,7 +43,7 @@
 
 ## Privacy Policy
 
-**Last Updated:** YYYY-MM-DD (Please update this)
+**Last Updated:** 2025-05-01
 
 This Chrome Extension "Lol indention" (hereinafter referred to as "this extension") respects your privacy.
 
@@ -66,7 +66,7 @@ This extension **does not save** the web page content information it accesses. F
 
 ### Contact Information
 
-For inquiries regarding this privacy policy, please contact [Your contact information, e.g., GitHub repository Issues]. (Optional. Remove this line if not needed.)
+For inquiries regarding this privacy policy, please contact [hitotori](https://x.com/hitotori_365). (Optional. Remove this line if not needed.)
 
 ### Changes to This Policy
 
